@@ -10,3 +10,6 @@ Jenkins install guide for Mac
   - $ brew services restart jenkins //젠킨스 재시작
 
   - (http://localhost:8080)
+
+### 참고 블로그
+  - (https://wan-blog.tistory.com/74)
