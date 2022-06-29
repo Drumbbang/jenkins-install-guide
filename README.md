@@ -8,3 +8,5 @@ Jenkins install guide for Mac
   - $ brew services start jenkins // 젠킨스 시작
   - $ brew services stop jenkins // 젠킨스 종료
   - $ brew services restart jenkins //젠킨스 재시작
+
+  - (http://localhost:8080)
