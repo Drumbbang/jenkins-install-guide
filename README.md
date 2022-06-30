@@ -17,3 +17,4 @@ Jenkins install guide for Mac
 
 ### 참고 블로그
   - (https://wan-blog.tistory.com/74)
+  - (https://phruse.com/characterboards-ci-cd-web%ED%8E%B8/)
